@@ -4,3 +4,4 @@ In this challenge, we focused on using Neural Networks to create a model with la
 
 We utilized activations such as relu and softmax. Along with this also using Binary Crossentropy and Categorical Crossentropy in building our model.
 
+Finally, we also worked with input layers, hidden layers, and output layers for our testing and modeling.
